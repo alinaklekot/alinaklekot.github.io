@@ -30,7 +30,7 @@ body{
 	align-items: center;
 	justify-content: center;
 	background-size: 100%;
-	background-attachment: fixed;
+	background-attachment: cover;
 	background-repeat: no-repeat;
 	-ms-background-position: bottom center;
 	background-position: top center;
